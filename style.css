@@ -1,0 +1,38 @@
+h1 {
+    color: slateblue;
+    size: 35px;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.comment-section {
+    margin-top: 20px;
+}
+
+.comment {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.comment .timestamp {
+    display: block;
+    font-size: 0.8em;
+    color: #666;
+    margin-top: 5px;
+}
+
+.comment button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
